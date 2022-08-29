@@ -1,0 +1,264 @@
+.section-meadel-age{
+    margin-bottom: 351px;
+}
+
+.meadel-section__wrapper{
+    background-color: #272E37;
+    position: relative;
+    padding: 100px  0 317px 0;
+}
+
+.section-meadel-age__paragrof{
+    font-size: 30px;
+    line-height: 48px;
+    text-align: center;
+    color: #fff;
+}
+
+.section-meadel-age__text{
+    font-size: 16px;
+    line-height: 16px;
+    text-align:Center;
+    width: 540px;
+    padding-left:  350px;
+    color: #fff;
+    padding-bottom: 86px;
+    
+}
+
+.section-meadel-age__list  {
+    width: 100%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin-right: 30px;
+    transform: translateY(30%);
+    -webkit-transform: translateY(30%);
+    -moz-transform: translateY(30%);
+    -ms-transform: translateY(30%);
+    -o-transform: translateY(30%);
+}
+
+.section-meadel-age__list__item{
+    width: 350px;
+    background-color: #0E8784;
+    margin-right: 30px;
+    border-radius: 12px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    -ms-border-radius: 12px;
+    -o-border-radius: 12px;
+
+    img{
+        margin: 72px 140px;
+        margin-bottom: 56px;
+    }
+}
+
+
+
+
+.list-paragraph{ 
+    font-size: 24px;
+    line-height: 32px;
+    text-align: Center;
+    vertical-align: Top;
+}
+
+.section-meadel-age__list__item {
+    align-items: center;
+    text-decoration: none;
+    color: #fff;
+
+    .list-paragraph{
+        margin-bottom: 24px;
+    }
+
+    p{
+        width: 256px;
+        margin-left: 47px;
+        margin-bottom: 48px ;
+        font-size: 16px;
+        line-height: 26px;
+        text-align: Center;
+        vertical-align: Top;
+    }
+
+}
+
+.meadel-section-age .container{
+    position: relative;
+    display: flex;
+    background-color: #333D4B;
+    justify-content: space-between;
+    height: 400px;
+    border-radius: 12px;
+    padding: 100px 85px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    -ms-border-radius: 12px;
+    -o-border-radius: 12px;
+  }
+  
+  .meadel-section-age{
+    position: relative;
+  
+  
+  
+    &__qualiti{
+        margin-right: 125px;
+  
+        &__paragraph{
+            font-family: 'Fraunces 9pt';
+            font-style: normal;
+            font-weight: 900;
+            font-size: 40px;
+            line-height: 48px;
+            color: #FEFCF7;
+            text-align: left;
+  
+            
+        }
+    }
+  }
+  
+  .meadel-section-age__img{
+    position: relative;
+    top: -175px;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+  }
+
+
+  @media only screen and (max-width: 1136px) {
+    .section-meadel-age{
+        margin-bottom: 351px;
+    }
+    
+    .meadel-section__wrapper{
+        background-color: #272E37;
+        position: relative;
+        padding: 100px  0 317px 0;
+    }
+    
+    .section-meadel-age__paragrof{
+        font-size: 30px;
+        line-height: 48px;
+        text-align: center;
+        color: #fff;
+
+    }
+    
+    .section-meadel-age__text{
+        font-size: 16px;
+        line-height: 16px;
+        text-align:Center;
+        width: 100%;
+        padding-left:  300px;
+        padding-right: 300px;
+        color: #fff;
+        padding-bottom: 310px;
+        
+    }
+    
+    .section-meadel-age__list  {
+        max-width: 1136px;
+        position: absolute;
+        display: block;
+        justify-content: center;
+        list-style-type: none;
+        padding: 0 100px ;
+        transform: translateY(-25%);
+        -webkit-transform: translateY(-25%);
+        -moz-transform: translateY(-25%);
+        -ms-transform: translateY(-25%);
+        -o-transform: translateY(-25%);
+}
+    
+    .section-meadel-age__list__item{
+        width: 100%;       
+        padding: 41px 48px 41px 70px;
+        margin-right: 48px;
+        display: flex;
+        align-items: center;
+        background-color: #0E8784;
+        margin-bottom: 24px;
+        border-radius: 12px;
+        -webkit-border-radius: 12px;
+        -moz-border-radius: 12px; 
+        -ms-border-radius: 12px;
+        -o-border-radius: 12px;
+    
+      
+
+        .list-paragraph{ 
+            font-size: 24px;
+            line-height: 32px;
+            text-align: left;
+        }
+        
+            p{
+                width: 344px;
+                margin-left: 0;
+                margin-bottom: 0;
+                font-size: 16px;
+                line-height: 26px;
+                text-align: left;
+            } 
+         }
+    
+    }
+     
+
+    .meadel-section-age .container{
+        position: relative;
+        display: flex;
+        background-color: #333D4B;
+        justify-content: space-between;
+        height: 400px;
+        border-radius: 12px;
+        padding: 100px 85px;
+        -webkit-border-radius: 12px;
+        -moz-border-radius: 12px;
+        -ms-border-radius: 12px;
+        -o-border-radius: 12px;
+      }
+      
+      .meadel-section-age{
+        position: relative;
+      
+      
+      
+        &__qualiti{
+            margin-right: 125px;
+      
+            &__paragraph{
+                font-family: 'Fraunces 9pt';
+                font-style: normal;
+                font-weight: 900;
+                font-size: 40px;
+                line-height: 48px;
+                color: #FEFCF7;
+                text-align: left;
+      
+                
+            }
+        }
+      }
+      
+      .meadel-section-age__img{
+        position: relative;
+        width: 100px;
+        top: -175px;
+        border-radius: 8px;
+        -webkit-border-radius: 8px;
+        -moz-border-radius: 8px;
+        -ms-border-radius: 8px;
+        -o-border-radius: 8px;
+      }
+
+  
